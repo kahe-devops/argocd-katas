@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - image: ghcr.io/eficode-academy/quotes-flask-frontend:release
-          name: quotes-flask-frontend
+          name: quotes-flask-frontend1
           ports:
             - containerPort: 5000
           resources:
