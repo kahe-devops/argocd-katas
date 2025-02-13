@@ -1,3 +1,4 @@
+FIXME!
 # Argo CD Katas
 
 Welcome to the Argo CD Katas repository! This project is designed to help users learn and master Argo CD through practical exercises and challenges. 
